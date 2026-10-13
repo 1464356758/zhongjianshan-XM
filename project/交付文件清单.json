@@ -1,0 +1,107 @@
+{
+  "version": "V1.0",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2518,
+      "sha256": "9fd165151c090061987b223f2c8f056daa2c236bcb99f9e9a648c043b6d5329b",
+      "git_blob_sha": "f8d822d0ddd14252d5d7475e682527dc799c4d54"
+    },
+    {
+      "path": "data/profit_assumptions.json",
+      "bytes": 2582,
+      "sha256": "f088a5315173b2dbfae4a2b3186e7cb58cba8b2ce25be52b748be909fb06f060",
+      "git_blob_sha": "bf0b3f6d95d09fdf190f3c9535b568003ddbfdac"
+    },
+    {
+      "path": "data/profit_results.json",
+      "bytes": 3889,
+      "sha256": "5d6e754b6e930a07252f4ceb02ccd2bd4d2b33d14dcc50d27b472131f6dd9293",
+      "git_blob_sha": "0e6cfe9a6230e88fd65f44a70f4eb1d5e41d8bdc"
+    },
+    {
+      "path": "data/sources.json",
+      "bytes": 22328,
+      "sha256": "55e497cbb73e5df72eebac8bf81fe0ebad690791bbca1bf8a10687ea3652d4a3",
+      "git_blob_sha": "85f2497fc4e54fb7d2b760909770241d201a0eed"
+    },
+    {
+      "path": "data/公开机构线索.json",
+      "bytes": 7050,
+      "sha256": "fde883182a72a23a79821adc7fd87324ecbe56c4231164ebdced1914b0bf2f88",
+      "git_blob_sha": "f80693d57a91e04e33bc23c07b41de1332e48f2f"
+    },
+    {
+      "path": "data/台账空模板.json",
+      "bytes": 1781,
+      "sha256": "9406d21968b02f1900874fccbd9f950fd86769a518aa5def907417d36c27b60d",
+      "git_blob_sha": "4c7d11e5a116403b486c48eac8cb4e545a873e12"
+    },
+    {
+      "path": "ops/实操模板包.md",
+      "bytes": 10005,
+      "sha256": "3bf5043db921731ac0189a37b9089bfe6710687f94848d8e6d61968f272a8d29",
+      "git_blob_sha": "1cff6297e16edd36d27e73551c81a2a92af32811"
+    },
+    {
+      "path": "project/QA.json",
+      "bytes": 521,
+      "sha256": "487620688a7fa4087656bec0720ebf25575948e306106a5595b3fd04c65f3a49",
+      "git_blob_sha": "e8d06c8082c4cef4c1ab93eb9f2b52b877eea68b"
+    },
+    {
+      "path": "project/STATUS.json",
+      "bytes": 1968,
+      "sha256": "9887c7c796f226cea9d921b2f055ba7f82ae5a8c0be46fd69f1651346d5fe724",
+      "git_blob_sha": "52c694a28a94ecfd03f9b53fc0c6690fa6f9ddbe"
+    },
+    {
+      "path": "project/新对话续接指令.md",
+      "bytes": 1136,
+      "sha256": "b21cf8ce443332e5c0e3ad9be11a61c5d9c6ad2476a72086754f8604067571cb",
+      "git_blob_sha": "c8034807fdf15f393b30382111e9c3c21fc98c26"
+    },
+    {
+      "path": "project/研究任务与授权范围.md",
+      "bytes": 1013,
+      "sha256": "42cfe5771d2151a6bb2ba71b67872fdda833c57ac58f1df8cf16d73a5d3dba58",
+      "git_blob_sha": "0009092239cce98ab929f7d4031e60ffdd5f43cf"
+    },
+    {
+      "path": "research/01_官方规则与中间商判断.md",
+      "bytes": 14005,
+      "sha256": "ff868bc766b122f358f776cdfc394f5c30b9da64787485a58c3c2f57d40b04ad",
+      "git_blob_sha": "35fca814b5eb337eeaef4d7bb109acaa7aeeb59e"
+    },
+    {
+      "path": "research/02_音乐任务与平台机构.md",
+      "bytes": 11982,
+      "sha256": "cb2dc02c34d839e76fb7c3eea491116aa5fbc8ea282056320761d02111a13a2c",
+      "git_blob_sha": "6741c8f1c16062b0f68eed3d160affa7f385b8c2"
+    },
+    {
+      "path": "research/03_获客利润与30天试单.md",
+      "bytes": 15718,
+      "sha256": "acbea53feb34e2380cec67eface22b13988579dccafa8c8f3552d15607f7368e",
+      "git_blob_sha": "155af39cdfafeb17d5504d114a7c8abe23e2bece"
+    },
+    {
+      "path": "research/04_合同责任与自审.md",
+      "bytes": 8293,
+      "sha256": "807d10a1767e05b4df723a53d46e60cd01fefcb6eb01e5cddfc53c1942a5acaf",
+      "git_blob_sha": "0887fc5fe32842ff7f440558a8838c6e599c3ecb"
+    },
+    {
+      "path": "research/来源台账.md",
+      "bytes": 19207,
+      "sha256": "f706b251b290e3bf97afee4404091a32dfaecf8acf0ecbb69698ba2bdd18060d",
+      "git_blob_sha": "546a1d7df66d830c3f3ee221722229e284f11e4b"
+    },
+    {
+      "path": "tools/profit_model.py",
+      "bytes": 4070,
+      "sha256": "43649c12e508a5676a9713856601c565f65ac81c9e01930535cf3dac0d46a18b",
+      "git_blob_sha": "d303fb1d8755c1f3dc4055414952bf9ae967391e"
+    }
+  ]
+}

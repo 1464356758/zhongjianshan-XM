@@ -1,0 +1,146 @@
+{
+  "music": [
+    {
+      "name": "小试",
+      "creators": 50,
+      "active_rate": 0.35,
+      "submissions_per_active": 4,
+      "qualified_rate": 0.85,
+      "payable_rate": 0.7,
+      "approved_gross_per_paid": 60,
+      "channel_share": 0.15,
+      "cost_per_submission": 2,
+      "fixed_cost": 300,
+      "minutes_per_submission": 10,
+      "other_month_hours": 10,
+      "submissions": 70,
+      "payable": 41.65,
+      "channel_revenue": 374.84999999999997,
+      "variable_cost": 140,
+      "pre_tax_operating_profit": -65.15000000000003,
+      "total_execution_hours": 21.666666666666664
+    },
+    {
+      "name": "稳定小池",
+      "creators": 300,
+      "active_rate": 0.5,
+      "submissions_per_active": 6,
+      "qualified_rate": 0.9,
+      "payable_rate": 0.8,
+      "approved_gross_per_paid": 120,
+      "channel_share": 0.15,
+      "cost_per_submission": 5,
+      "fixed_cost": 2500,
+      "minutes_per_submission": 8,
+      "other_month_hours": 60,
+      "submissions": 900,
+      "payable": 648,
+      "channel_revenue": 11664,
+      "variable_cost": 4500,
+      "pre_tax_operating_profit": 4664,
+      "total_execution_hours": 180
+    },
+    {
+      "name": "团队规模",
+      "creators": 1000,
+      "active_rate": 0.6,
+      "submissions_per_active": 8,
+      "qualified_rate": 0.9,
+      "payable_rate": 0.85,
+      "approved_gross_per_paid": 150,
+      "channel_share": 0.2,
+      "cost_per_submission": 6,
+      "fixed_cost": 35000,
+      "minutes_per_submission": 8,
+      "other_month_hours": 150,
+      "submissions": 4800,
+      "payable": 3672,
+      "channel_revenue": 110160,
+      "variable_cost": 28800,
+      "pre_tax_operating_profit": 46360,
+      "total_execution_hours": 790
+    },
+    {
+      "name": "低价低通过压力",
+      "creators": 300,
+      "active_rate": 0.5,
+      "submissions_per_active": 6,
+      "qualified_rate": 0.7,
+      "payable_rate": 0.5,
+      "approved_gross_per_paid": 80,
+      "channel_share": 0.1,
+      "cost_per_submission": 5,
+      "fixed_cost": 2500,
+      "minutes_per_submission": 8,
+      "other_month_hours": 60,
+      "submissions": 900,
+      "payable": 315,
+      "channel_revenue": 2520,
+      "variable_cost": 4500,
+      "pre_tax_operating_profit": -4480,
+      "total_execution_hours": 180
+    }
+  ],
+  "brand": [
+    {
+      "name": "小项目",
+      "creator_budget": 50000,
+      "service_rate": 0.18,
+      "execution_cost_rate": 0.04,
+      "loss_reserve_rate": 0.01,
+      "fixed_cost": 4000,
+      "service_revenue": 9000,
+      "execution_cost": 2000,
+      "loss_reserve": 500,
+      "pre_tax_operating_profit": 2499.999999999999
+    },
+    {
+      "name": "中等团队",
+      "creator_budget": 500000,
+      "service_rate": 0.18,
+      "execution_cost_rate": 0.04,
+      "loss_reserve_rate": 0.01,
+      "fixed_cost": 20000,
+      "service_revenue": 90000,
+      "execution_cost": 20000,
+      "loss_reserve": 5000,
+      "pre_tax_operating_profit": 44999.999999999985
+    },
+    {
+      "name": "较大团队",
+      "creator_budget": 1000000,
+      "service_rate": 0.18,
+      "execution_cost_rate": 0.04,
+      "loss_reserve_rate": 0.01,
+      "fixed_cost": 45000,
+      "service_revenue": 180000,
+      "execution_cost": 40000,
+      "loss_reserve": 10000,
+      "pre_tax_operating_profit": 84999.99999999997
+    }
+  ],
+  "targets": {
+    "music": [
+      {
+        "monthly_profit_target": 50000,
+        "creators_required_under_scale_assumptions": 1045
+      },
+      {
+        "monthly_profit_target": 100000,
+        "creators_required_under_scale_assumptions": 1660
+      }
+    ],
+    "brand": [
+      {
+        "monthly_profit_target": 50000,
+        "fixed_cost": 20000,
+        "creator_budget_required": 538462
+      },
+      {
+        "monthly_profit_target": 100000,
+        "fixed_cost": 45000,
+        "creator_budget_required": 1115385
+      }
+    ]
+  }
+}

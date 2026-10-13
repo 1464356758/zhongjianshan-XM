@@ -1,0 +1,94 @@
+{
+  "as_of": "2026-10-14",
+  "currency": "CNY",
+  "data_status": "ILLUSTRATIVE_ASSUMPTIONS_NOT_LIVE_PRICES",
+  "note": "全部经营参数是测算假设，佣金尚未获得授权，收入不是预测承诺；不含所得税、未列增值税与经营者机会成本。 approved_gross_per_paid是合同认可的可分佣计佣基数，不是宣传价或银行到手金额；平台扣费是否先扣须按合同定义。",
+  "music": [
+    {
+      "name": "小试",
+      "creators": 50,
+      "active_rate": 0.35,
+      "submissions_per_active": 4,
+      "qualified_rate": 0.85,
+      "payable_rate": 0.7,
+      "approved_gross_per_paid": 60,
+      "channel_share": 0.15,
+      "cost_per_submission": 2,
+      "fixed_cost": 300,
+      "minutes_per_submission": 10,
+      "other_month_hours": 10
+    },
+    {
+      "name": "稳定小池",
+      "creators": 300,
+      "active_rate": 0.5,
+      "submissions_per_active": 6,
+      "qualified_rate": 0.9,
+      "payable_rate": 0.8,
+      "approved_gross_per_paid": 120,
+      "channel_share": 0.15,
+      "cost_per_submission": 5,
+      "fixed_cost": 2500,
+      "minutes_per_submission": 8,
+      "other_month_hours": 60
+    },
+    {
+      "name": "团队规模",
+      "creators": 1000,
+      "active_rate": 0.6,
+      "submissions_per_active": 8,
+      "qualified_rate": 0.9,
+      "payable_rate": 0.85,
+      "approved_gross_per_paid": 150,
+      "channel_share": 0.2,
+      "cost_per_submission": 6,
+      "fixed_cost": 35000,
+      "minutes_per_submission": 8,
+      "other_month_hours": 150
+    },
+    {
+      "name": "低价低通过压力",
+      "creators": 300,
+      "active_rate": 0.5,
+      "submissions_per_active": 6,
+      "qualified_rate": 0.7,
+      "payable_rate": 0.5,
+      "approved_gross_per_paid": 80,
+      "channel_share": 0.1,
+      "cost_per_submission": 5,
+      "fixed_cost": 2500,
+      "minutes_per_submission": 8,
+      "other_month_hours": 60
+    }
+  ],
+  "brand": [
+    {
+      "name": "小项目",
+      "creator_budget": 50000,
+      "service_rate": 0.18,
+      "execution_cost_rate": 0.04,
+      "loss_reserve_rate": 0.01,
+      "fixed_cost": 4000
+    },
+    {
+      "name": "中等团队",
+      "creator_budget": 500000,
+      "service_rate": 0.18,
+      "execution_cost_rate": 0.04,
+      "loss_reserve_rate": 0.01,
+      "fixed_cost": 20000
+    },
+    {
+      "name": "较大团队",
+      "creator_budget": 1000000,
+      "service_rate": 0.18,
+      "execution_cost_rate": 0.04,
+      "loss_reserve_rate": 0.01,
+      "fixed_cost": 45000
+    }
+  ],
+  "target": [
+    50000,
+    100000
+  ]
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "U01",
+    "name": "海葵音乐/星斗推",
+    "role": "音乐宣推与联盟候选",
+    "url": "https://www.hikoon.com/",
+    "source_ids": [
+      "S18",
+      "S19",
+      "S20",
+      "S21"
+    ],
+    "evidence": "集团业务直接定位",
+    "priority": "优先核查",
+    "ask": "联盟/公会规则、达人执行、分佣归因",
+    "limit": "同集团入口不能计作独立两家上游",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U02",
+    "name": "太合音乐集团",
+    "role": "音乐版权与商业化潜在需求方",
+    "url": "https://www.taihemusic.cn/tmg/mission",
+    "source_ids": [
+      "S36"
+    ],
+    "evidence": "官方部门入口直接定位",
+    "priority": "次级",
+    "ask": "商业化或品牌合作转宣发采购",
+    "limit": "公共部门邮箱不等于已愿采购",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U03",
+    "name": "讯飞音乐",
+    "role": "音乐发行及短视频宣发候选",
+    "url": "https://www.iflytekmusic.com/release",
+    "source_ids": [
+      "S37"
+    ],
+    "evidence": "官网业务直接定位",
+    "priority": "次级",
+    "ask": "商务/宣发执行合作",
+    "limit": "发行小程序不是已确认的达人任务池",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U04",
+    "name": "微播易",
+    "role": "广告资源合作与执行候选",
+    "url": "https://www.weiboyi.com/selfmedia",
+    "source_ids": [
+      "S22",
+      "S23",
+      "S24"
+    ],
+    "evidence": "公开业务入口直接定位",
+    "priority": "优先核查",
+    "ask": "资源合作、供应商和执行准入",
+    "limit": "未获供应商身份或任务",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U05",
+    "name": "新榜有赚/新榜商桥",
+    "role": "多平台资源登记及需求撮合",
+    "url": "https://a.newrank.cn/trade/intro",
+    "source_ids": [
+      "S25",
+      "S26",
+      "S27",
+      "S28"
+    ],
+    "evidence": "公开业务入口直接定位",
+    "priority": "优先核查",
+    "ask": "抖音资源登记、撮合和机构合作",
+    "limit": "两个产品同集团不计独立两家上游",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U06",
+    "name": "无忧传媒",
+    "role": "短视频商业化与整合营销候选",
+    "url": "https://www.wuyou.com/about",
+    "source_ids": [
+      "S34"
+    ],
+    "evidence": "官网业务直接定位",
+    "priority": "次级",
+    "ask": "商业化、品牌执行、细分资源",
+    "limit": "未取得具体采购意向",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U07",
+    "name": "蜂群文化",
+    "role": "内容与泛娱乐宣发候选",
+    "url": "https://hivemedia.cn/",
+    "source_ids": [
+      "S35"
+    ],
+    "evidence": "仅搜索摘要定位",
+    "priority": "待核正文",
+    "ask": "商务与内容合作",
+    "limit": "未核正文/任务/主体准入",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U08",
+    "name": "二咖",
+    "role": "MCN资源合作展示线索",
+    "url": "https://www.weiboyi.com/selfmedia",
+    "source_ids": [
+      "S23"
+    ],
+    "evidence": "合作平台展示，未独立核验",
+    "priority": "低优先级",
+    "ask": "先确认有效入口和采购方向",
+    "limit": "不是已独立确认的当前上游",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U09",
+    "name": "如涵文化",
+    "role": "MCN资源合作展示线索",
+    "url": "https://www.weiboyi.com/selfmedia",
+    "source_ids": [
+      "S23"
+    ],
+    "evidence": "合作平台展示，未独立核验",
+    "priority": "低优先级",
+    "ask": "先确认有效入口和采购方向",
+    "limit": "不是已独立确认的当前上游",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U10",
+    "name": "papi相关机构",
+    "role": "内容资源合作展示线索",
+    "url": "https://www.weiboyi.com/selfmedia",
+    "source_ids": [
+      "S23"
+    ],
+    "evidence": "合作平台展示，未独立核验",
+    "priority": "低优先级",
+    "ask": "先确认有效入口和采购方向",
+    "limit": "不声称已有关系或独立授权",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U11",
+    "name": "思空传媒",
+    "role": "MCN资源合作展示线索",
+    "url": "https://www.weiboyi.com/selfmedia",
+    "source_ids": [
+      "S23"
+    ],
+    "evidence": "合作平台展示，未独立核验",
+    "priority": "低优先级",
+    "ask": "先确认有效入口和采购方向",
+    "limit": "不是已独立确认的当前上游",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U12",
+    "name": "星图服务商查询",
+    "role": "机构身份核验目录",
+    "url": "https://www.xingtu.cn/pages/partners",
+    "source_ids": [
+      "S03",
+      "S06",
+      "S14"
+    ],
+    "evidence": "官网链接可定位，动态名单未展开",
+    "priority": "核验入口",
+    "ask": "对应机构服务商类型和权限",
+    "limit": "不提供本次未读到的实时名单",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U13",
+    "name": "巨量引擎方舟",
+    "role": "合作机构身份核验目录",
+    "url": "https://agent.oceanengine.com/info/agents",
+    "source_ids": [
+      "S06"
+    ],
+    "evidence": "官网链接可定位，动态名单未展开",
+    "priority": "核验入口",
+    "ask": "正规合作机构身份",
+    "limit": "身份查验不等于允许转包具体任务",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U14",
+    "name": "BDwork渠道商目录",
+    "role": "商业需求和机构线索目录",
+    "url": "https://www.bdwork.com/qudao",
+    "source_ids": [
+      "S31"
+    ],
+    "evidence": "公开目录已读取",
+    "priority": "次级线索",
+    "ask": "筛选再核验发布主体",
+    "limit": "公开条目不是实际付款证据",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  }
+]
