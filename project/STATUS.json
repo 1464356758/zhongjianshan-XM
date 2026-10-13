@@ -1,0 +1,26 @@
+{
+  "project_id": "ZJS-XM-001",
+  "as_of": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "stage": "RESEARCHING",
+  "completed": [
+    "仓库权限和初始文件核验",
+    "官方客户/达人手册初步核查",
+    "任务服务商与撮合服务商规则定位"
+  ],
+  "next": [
+    "音乐任务平台与代理授权",
+    "商务微信和第三方任务规则",
+    "真实渠道来源及现金流压力测算",
+    "报告、执行模板与自审"
+  ],
+  "requires_user_action_now": false,
+  "commercial_status": "UNVALIDATED_NO_CUSTOMERS_NO_SIGNED_TASKS",
+  "constraints": [
+    "PUBLIC_RESEARCH_ONLY",
+    "NO_LOGIN_REQUIRED",
+    "NO_EXTERNAL_MESSAGES",
+    "NO_SPEND",
+    "NO_GUARANTEED_INCOME"
+  ]
+}
