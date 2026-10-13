@@ -1,0 +1,55 @@
+{
+  "version": "V1.1",
+  "date": "2026-10-14",
+  "input_kind": "ILLUSTRATIVE_ASSUMPTIONS",
+  "currency": "CNY",
+  "actual_orders": 0,
+  "actual_revenue": 0,
+  "note": "无平台费率/报价背书，无授权、无真实订单、无外部联系。收款比例不是平台扣费率。失败提交计成本；劳动折算与现金支出分开。",
+  "cases": [
+    {
+      "id": "FO01",
+      "name": "首次音乐20条投稿",
+      "submissions": 20,
+      "qualified_rate": 0.9,
+      "payable_given_qualified_rate": 0.8,
+      "collection_scenario_rate": 0.95,
+      "pricing": {"type": "share", "recognized_base_per_payable": 120, "channel_share": 0.15},
+      "cash_costs_excluding_owner_labor": {"per_submission": 2, "recruitment_allocated": 100, "setup": 80, "overhead_allocated": 0},
+      "owner_labor": {"minutes_per_submission": 8, "other_hours": 14, "value_per_hour": 30}
+    },
+    {
+      "id": "FO02",
+      "name": "资源与流程复用后音乐20条",
+      "submissions": 20,
+      "qualified_rate": 0.9,
+      "payable_given_qualified_rate": 0.8,
+      "collection_scenario_rate": 0.95,
+      "pricing": {"type": "share", "recognized_base_per_payable": 120, "channel_share": 0.15},
+      "cash_costs_excluding_owner_labor": {"per_submission": 2, "recruitment_allocated": 20, "setup": 0, "overhead_allocated": 20},
+      "owner_labor": {"minutes_per_submission": 8, "other_hours": 2, "value_per_hour": 30}
+    },
+    {
+      "id": "FO03",
+      "name": "低价低通过低收款压力",
+      "submissions": 20,
+      "qualified_rate": 0.7,
+      "payable_given_qualified_rate": 0.5,
+      "collection_scenario_rate": 0.5,
+      "pricing": {"type": "share", "recognized_base_per_payable": 80, "channel_share": 0.1},
+      "cash_costs_excluding_owner_labor": {"per_submission": 2, "recruitment_allocated": 100, "setup": 80, "overhead_allocated": 0},
+      "owner_labor": {"minutes_per_submission": 8, "other_hours": 14, "value_per_hour": 30}
+    },
+    {
+      "id": "FO04",
+      "name": "品牌执行10条假设交付费",
+      "submissions": 10,
+      "qualified_rate": 0.9,
+      "payable_given_qualified_rate": 1,
+      "collection_scenario_rate": 0.95,
+      "pricing": {"type": "fixed_per_payable", "fee_per_payable": 150},
+      "cash_costs_excluding_owner_labor": {"per_submission": 30, "recruitment_allocated": 200, "setup": 100, "overhead_allocated": 0},
+      "owner_labor": {"minutes_per_submission": 15, "other_hours": 11.5, "value_per_hour": 30}
+    }
+  ]
+}

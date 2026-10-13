@@ -2,12 +2,12 @@
   "project_id": "ZJS-XM-001",
   "as_of": "2026-10-14",
   "timezone": "Asia/Shanghai",
-  "version": "V1.0",
-  "stage": "RESEARCH_COMPLETE",
-  "next_stage": "BUSINESS_VALIDATION",
+  "version": "V1.1",
+  "stage": "PUBLIC_UPSTREAM_CHECK_AND_FIRST_ORDER_PACK_COMPLETE",
+  "next_stage": "AUTHORIZED_COMMERCIAL_VALIDATION",
   "research_status": "COMPLETE_WITH_PUBLIC_ACCESS_LIMITS",
   "commercial_status": "UNVALIDATED_NO_AUTHORIZED_TASKS_NO_CUSTOMERS_NO_REVENUE",
-  "source_count": 49,
+  "source_count": 55,
   "public_business_entries": 14,
   "pdf_pages": 33,
   "completed": [
@@ -17,17 +17,23 @@
     "第三方平台与公共机构入口",
     "商务微信、达人招募与上游获客方法",
     "利润、失败投稿成本、工时和现金流测算",
-    "30天试单验收、合同结算模板和独立自审"
+    "30天试单验收、合同结算模板和独立自审",
+    "星斗推营销联盟分佣公共证据与主体关系核验",
+    "音乐达人禁止接单后转委托条款补充",
+    "新榜历史2%公众号活动到期核查",
+    "三家优先渠道接洽稿、合作确认与任务卡",
+    "首单招募成本和经营者工时模型"
   ],
   "not_completed": [
     "具体平台/上游给本项目的合作授权",
     "实际联系人建联",
     "真实任务与合同",
     "试单执行与回款",
-    "真实单位经济与复购验证"
+    "真实单位经济与复购验证",
+    "星斗推/新榜/微播易给本项目的具体准入、计佣和归因决定"
   ],
   "requires_user_action_now": false,
-  "next_ai_task": "先读取README、研究任务与授权范围和本状态。优先核验是否存在允许外部团队参与且会付费的具体上游合作，按模板完成可审阅的首单确认资料。不得把公开任务链接当已获得代理权。",
+  "next_ai_task": "读取research/05和ops/首单启动包。优先补本项目上游角色许可、报酬、归因和真实任务，不能重复包装公开线索为订单。没有明确对外联系指令时不发消息。若仍仅继续研究，针对未决协议与准入核实，或改善已有执行材料。",
   "limits": [
     "公开研究已授权",
     "本仓库资料写入已授权",
@@ -44,5 +50,7 @@
     "ops/实操模板包.md",
     "research/来源台账.md",
     "project/QA.json"
-  ]
+  ],
+  "first_order_pack_status": "REVIEWABLE_NOT_SENT_NOT_AUTHORIZED",
+  "continuation_pdf_pages": 12
 }

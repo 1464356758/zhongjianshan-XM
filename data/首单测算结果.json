@@ -1,0 +1,101 @@
+{
+  "input_kind": "ILLUSTRATIVE_ASSUMPTIONS",
+  "cases": [
+    {
+      "case_id": "FO01",
+      "name": "首次音乐20条投稿",
+      "status": "ILLUSTRATIVE_NOT_MARKET_QUOTE_NOT_ACTUAL_REVENUE",
+      "expected_payable_count": 14.4,
+      "fee_per_payable": 18.0,
+      "expected_earned_service_fee": 259.2,
+      "collection_scenario_amount": 246.23999999999998,
+      "scenario_uncollected_receivable": 12.960000000000008,
+      "cash_cost_excluding_owner_labor": 220,
+      "expected_earned_contribution_before_owner_labor": 39.19999999999999,
+      "collection_scenario_cash_contribution": 26.23999999999998,
+      "owner_hours": 16.666666666666668,
+      "owner_labor_value": 500.00000000000006,
+      "collection_scenario_contribution_after_owner_labor": -473.7600000000001,
+      "minimum_fee_per_payable_in_collection_scenario_including_owner_labor": 52.631578947368425,
+      "minimum_share_of_recognized_base": 0.4385964912280702,
+      "conditions": [
+        "Actual permission, pricing, attribution and payout are not verified by this calculation",
+        "Creator rewards and platform fees are excluded from our revenue and expenses here",
+        "Uncollected amounts remain receivables; this does not waive payer obligations",
+        "Unlisted taxes, bad debts and other costs remain outside this illustrative model"
+      ]
+    },
+    {
+      "case_id": "FO02",
+      "name": "资源与流程复用后音乐20条",
+      "status": "ILLUSTRATIVE_NOT_MARKET_QUOTE_NOT_ACTUAL_REVENUE",
+      "expected_payable_count": 14.4,
+      "fee_per_payable": 18.0,
+      "expected_earned_service_fee": 259.2,
+      "collection_scenario_amount": 246.23999999999998,
+      "scenario_uncollected_receivable": 12.960000000000008,
+      "cash_cost_excluding_owner_labor": 80,
+      "expected_earned_contribution_before_owner_labor": 179.2,
+      "collection_scenario_cash_contribution": 166.23999999999998,
+      "owner_hours": 4.666666666666666,
+      "owner_labor_value": 139.99999999999997,
+      "collection_scenario_contribution_after_owner_labor": 26.24000000000001,
+      "minimum_fee_per_payable_in_collection_scenario_including_owner_labor": 16.08187134502924,
+      "minimum_share_of_recognized_base": 0.1340155945419103,
+      "conditions": [
+        "Actual permission, pricing, attribution and payout are not verified by this calculation",
+        "Creator rewards and platform fees are excluded from our revenue and expenses here",
+        "Uncollected amounts remain receivables; this does not waive payer obligations",
+        "Unlisted taxes, bad debts and other costs remain outside this illustrative model"
+      ]
+    },
+    {
+      "case_id": "FO03",
+      "name": "低价低通过低收款压力",
+      "status": "ILLUSTRATIVE_NOT_MARKET_QUOTE_NOT_ACTUAL_REVENUE",
+      "expected_payable_count": 7.0,
+      "fee_per_payable": 8.0,
+      "expected_earned_service_fee": 56.0,
+      "collection_scenario_amount": 28.0,
+      "scenario_uncollected_receivable": 28.0,
+      "cash_cost_excluding_owner_labor": 220,
+      "expected_earned_contribution_before_owner_labor": -164.0,
+      "collection_scenario_cash_contribution": -192.0,
+      "owner_hours": 16.666666666666668,
+      "owner_labor_value": 500.00000000000006,
+      "collection_scenario_contribution_after_owner_labor": -692.0,
+      "minimum_fee_per_payable_in_collection_scenario_including_owner_labor": 205.71428571428572,
+      "minimum_share_of_recognized_base": 2.5714285714285716,
+      "conditions": [
+        "Actual permission, pricing, attribution and payout are not verified by this calculation",
+        "Creator rewards and platform fees are excluded from our revenue and expenses here",
+        "Uncollected amounts remain receivables; this does not waive payer obligations",
+        "Unlisted taxes, bad debts and other costs remain outside this illustrative model"
+      ]
+    },
+    {
+      "case_id": "FO04",
+      "name": "品牌执行10条假设交付费",
+      "status": "ILLUSTRATIVE_NOT_MARKET_QUOTE_NOT_ACTUAL_REVENUE",
+      "expected_payable_count": 9.0,
+      "fee_per_payable": 150,
+      "expected_earned_service_fee": 1350.0,
+      "collection_scenario_amount": 1282.5,
+      "scenario_uncollected_receivable": 67.5,
+      "cash_cost_excluding_owner_labor": 600,
+      "expected_earned_contribution_before_owner_labor": 750.0,
+      "collection_scenario_cash_contribution": 682.5,
+      "owner_hours": 14.0,
+      "owner_labor_value": 420.0,
+      "collection_scenario_contribution_after_owner_labor": 262.5,
+      "minimum_fee_per_payable_in_collection_scenario_including_owner_labor": 119.2982456140351,
+      "minimum_share_of_recognized_base": null,
+      "conditions": [
+        "Actual permission, pricing, attribution and payout are not verified by this calculation",
+        "Creator rewards and platform fees are excluded from our revenue and expenses here",
+        "Uncollected amounts remain receivables; this does not waive payer obligations",
+        "Unlisted taxes, bad debts and other costs remain outside this illustrative model"
+      ]
+    }
+  ]
+}

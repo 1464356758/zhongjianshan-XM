@@ -1,11 +1,14 @@
 {
-  "version": "V1.0",
+  "version": "V1.1",
+  "date": "2026-10-14",
+  "manifest_excludes_this_file": true,
+  "repository_file_count_including_manifest": 25,
   "files": [
     {
       "path": "README.md",
-      "bytes": 2518,
-      "sha256": "9fd165151c090061987b223f2c8f056daa2c236bcb99f9e9a648c043b6d5329b",
-      "git_blob_sha": "f8d822d0ddd14252d5d7475e682527dc799c4d54"
+      "bytes": 3289,
+      "sha256": "fc25ff944b2b9d88f11b6eaa147763d2db9ac12131232149d134d22c354cfe34",
+      "git_blob_sha": "c70479271a995aafb8f7fdeac114f02259f961f5"
     },
     {
       "path": "data/profit_assumptions.json",
@@ -21,15 +24,21 @@
     },
     {
       "path": "data/sources.json",
-      "bytes": 22328,
-      "sha256": "55e497cbb73e5df72eebac8bf81fe0ebad690791bbca1bf8a10687ea3652d4a3",
-      "git_blob_sha": "85f2497fc4e54fb7d2b760909770241d201a0eed"
+      "bytes": 25998,
+      "sha256": "e60df64c25b25d978c682f38d78d329b1a168b24edc47805765d92046b747bc6",
+      "git_blob_sha": "fabec293350a48b24126c7efe0fc828da6194334"
+    },
+    {
+      "path": "data/上游渠道核验.json",
+      "bytes": 3849,
+      "sha256": "9197ec5d3728e458f97dd229df0c9c6434d37233bcc5cc068b13fd3ae38d70fe",
+      "git_blob_sha": "71a3cf1d3c8d520ac39b9104ccb6efe66eb88d7b"
     },
     {
       "path": "data/公开机构线索.json",
-      "bytes": 7050,
-      "sha256": "fde883182a72a23a79821adc7fd87324ecbe56c4231164ebdced1914b0bf2f88",
-      "git_blob_sha": "f80693d57a91e04e33bc23c07b41de1332e48f2f"
+      "bytes": 7244,
+      "sha256": "69e3d94a5ac30913d05ebf8338ae0744db219a26e0e8e441fa074b9677671fa9",
+      "git_blob_sha": "d2fce00f32c761ec2cd32c2fa44269b356e4a7cd"
     },
     {
       "path": "data/台账空模板.json",
@@ -38,28 +47,52 @@
       "git_blob_sha": "4c7d11e5a116403b486c48eac8cb4e545a873e12"
     },
     {
+      "path": "data/首单测算假设.json",
+      "bytes": 2491,
+      "sha256": "897f5dc50cb41b229859033ecda646cd37c3608c63dca0b24b40e5dba8ef5993",
+      "git_blob_sha": "875d1d08eb838b90499d5d242768feabb4f8d16c"
+    },
+    {
+      "path": "data/首单测算结果.json",
+      "bytes": 5086,
+      "sha256": "988903efa05f3b983faf0ef2af29fe6c4bbf90ac9198691ccbb0423dac320149",
+      "git_blob_sha": "085af1927322fdc3fb411d62ed50dd47068291d7"
+    },
+    {
       "path": "ops/实操模板包.md",
       "bytes": 10005,
       "sha256": "3bf5043db921731ac0189a37b9089bfe6710687f94848d8e6d61968f272a8d29",
       "git_blob_sha": "1cff6297e16edd36d27e73551c81a2a92af32811"
     },
     {
+      "path": "ops/首单启动包.md",
+      "bytes": 14631,
+      "sha256": "97fec45a2853f0935f45ee506701fec4eac69255226ee7d0d6ea4afe65256e8a",
+      "git_blob_sha": "babf4efe0e369df2da92575616d4909655b40cc6"
+    },
+    {
       "path": "project/QA.json",
-      "bytes": 521,
-      "sha256": "487620688a7fa4087656bec0720ebf25575948e306106a5595b3fd04c65f3a49",
-      "git_blob_sha": "e8d06c8082c4cef4c1ab93eb9f2b52b877eea68b"
+      "bytes": 956,
+      "sha256": "bdc3574f5e6c16000598d9b50c9556b635d9ce906b744ac45961c69fa92240a1",
+      "git_blob_sha": "1aee1fa1a26775235f9e81f7908ff90d858eb0bd"
     },
     {
       "path": "project/STATUS.json",
-      "bytes": 1968,
-      "sha256": "9887c7c796f226cea9d921b2f055ba7f82ae5a8c0be46fd69f1651346d5fe724",
-      "git_blob_sha": "52c694a28a94ecfd03f9b53fc0c6690fa6f9ddbe"
+      "bytes": 2535,
+      "sha256": "41ebba24289df7abb74926353537ad87e99b28f2824a41357226356394f5609a",
+      "git_blob_sha": "04f44f8ab9dc3b4038c6ed7c32c6f776d018adaf"
+    },
+    {
+      "path": "project/V1.1_变更与未决事项.md",
+      "bytes": 1992,
+      "sha256": "1adba46802a393c7a12f84bc2eaf5c5bd7caf3fdb25ab1e4267d68ac348072e3",
+      "git_blob_sha": "b26ce27bfc1db019a7299e3499ac6c6ad4e76c5d"
     },
     {
       "path": "project/新对话续接指令.md",
-      "bytes": 1136,
-      "sha256": "b21cf8ce443332e5c0e3ad9be11a61c5d9c6ad2476a72086754f8604067571cb",
-      "git_blob_sha": "c8034807fdf15f393b30382111e9c3c21fc98c26"
+      "bytes": 1566,
+      "sha256": "d945d7d4ad45410c437b6e5d6cb912b5ffb68c5356234b14659dd95188c0cac8",
+      "git_blob_sha": "2aec3f2f56517d8faeb81c0df34957c5d90b52d6"
     },
     {
       "path": "project/研究任务与授权范围.md",
@@ -69,15 +102,15 @@
     },
     {
       "path": "research/01_官方规则与中间商判断.md",
-      "bytes": 14005,
-      "sha256": "ff868bc766b122f358f776cdfc394f5c30b9da64787485a58c3c2f57d40b04ad",
-      "git_blob_sha": "35fca814b5eb337eeaef4d7bb109acaa7aeeb59e"
+      "bytes": 14029,
+      "sha256": "03317426e2bdfcde873884cc82f2f3ff88f3f976f70723fd4c648a62b47f8a14",
+      "git_blob_sha": "42c85d65cc847f027bb81f82bf80ddf722a4d746"
     },
     {
       "path": "research/02_音乐任务与平台机构.md",
-      "bytes": 11982,
-      "sha256": "cb2dc02c34d839e76fb7c3eea491116aa5fbc8ea282056320761d02111a13a2c",
-      "git_blob_sha": "6741c8f1c16062b0f68eed3d160affa7f385b8c2"
+      "bytes": 12649,
+      "sha256": "b5350371f9fe8cc8f8452d9a6a4f7f0a2a6e7a874399401cb3634b76102a8aed",
+      "git_blob_sha": "1ccb31c857c4d9d60b1860b6f2c6686f13d19dd6"
     },
     {
       "path": "research/03_获客利润与30天试单.md",
@@ -92,16 +125,40 @@
       "git_blob_sha": "0887fc5fe32842ff7f440558a8838c6e599c3ecb"
     },
     {
+      "path": "research/05_上游渠道核验与首单判断.md",
+      "bytes": 8612,
+      "sha256": "a9b48dac035dec38b9fec987206c964fc32b776155d011ae96a1e5be665abd3f",
+      "git_blob_sha": "494b362297c1f98e873daf537e56261e41f9402a"
+    },
+    {
       "path": "research/来源台账.md",
-      "bytes": 19207,
-      "sha256": "f706b251b290e3bf97afee4404091a32dfaecf8acf0ecbb69698ba2bdd18060d",
-      "git_blob_sha": "546a1d7df66d830c3f3ee221722229e284f11e4b"
+      "bytes": 21525,
+      "sha256": "23ac095447084033a83b26513f305fc85c571b66d05cd06e67e8fe0004a5a6d8",
+      "git_blob_sha": "293557cfebe523d294c68f44c0d6dfd7351a2915"
+    },
+    {
+      "path": "tools/first_order_model.py",
+      "bytes": 4380,
+      "sha256": "ea6490ce3cf58673ca0abee9375fff63354e269ca95802563f02e81bd71a6cf0",
+      "git_blob_sha": "8f7830b905dd0fdb2a63f1e6c4fd2623ef3969ae"
     },
     {
       "path": "tools/profit_model.py",
       "bytes": 4070,
       "sha256": "43649c12e508a5676a9713856601c565f65ac81c9e01930535cf3dac0d46a18b",
       "git_blob_sha": "d303fb1d8755c1f3dc4055414952bf9ae967391e"
+    }
+  ],
+  "deliverables": [
+    {
+      "filename": "抖音广告中间商_首单启动与渠道核验_V1.1.pdf",
+      "pages": 12,
+      "description": "本輪新增渠道核验与首单启动材料"
+    },
+    {
+      "filename": "抖音广告中间商_深度研究与落地方案_V1.0.pdf",
+      "pages": 33,
+      "description": "上一阶段研究；新增事实以V1.1增补优先"
     }
   ]
 }

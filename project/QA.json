@@ -2,7 +2,7 @@
   "date": "2026-10-14",
   "research_status": "COMPLETE_WITH_PUBLIC_ACCESS_LIMITS",
   "commercial_status": "NOT_VALIDATED",
-  "source_count": 49,
+  "source_count": 55,
   "public_business_lead_count": 14,
   "source_refs_valid": true,
   "profit_independent_reconciliation": "PASS",
@@ -14,5 +14,16 @@
   "external_messages_sent": 0,
   "platform_purchases_or_recharges": 0,
   "obtained_orders": 0,
-  "real_revenue": 0
+  "real_revenue": 0,
+  "version": "V1.1",
+  "prior_pdf_pages": 33,
+  "continuation_pdf_pages": 12,
+  "first_order_math_independent_check": "PASS_JS_AND_PYTHON",
+  "continuation_pdf_visual_review": "PASS_ALL_PAGES",
+  "current_business_permissions": "NONE_OBTAINED",
+  "expired_referral_policy_marked": true,
+  "continuation_pdf_links": 76,
+  "continuation_pdf_bookmarks": 18,
+  "continuation_pdf_font_embedded": true,
+  "current_source_id_checks": "PASS"
 }

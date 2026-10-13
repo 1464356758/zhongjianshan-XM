@@ -173,11 +173,11 @@
     "url": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/douyin/17bc3522-30a0-4ee6-a4f0-39581501d970.html",
     "type": "官方协议",
     "published": "2026-06-12；生效2026-06-19",
-    "access": "网页正文（公开抓取）",
-    "ref": "turn18search11",
+    "access": "网页正文",
+    "ref": "turn24view1",
     "checked_at": "2026-10-14",
-    "note": "全案与直发两条交易链；直发依星图；禁止规避平台私单；费用由任务决定。",
-    "verification_limit": null
+    "note": "全案与直发任务、禁私下交易；明确禁止宣推达人接单后再转委托第三方实际执行；特约服务提供商定义不能推断个人渠道准入。",
+    "verification_limit": "已读公开协议；本项目无平台审核资格或授权。"
   },
   {
     "id": "S16",
@@ -210,7 +210,7 @@
     "type": "开发者自述",
     "published": null,
     "access": "网页正文",
-    "ref": "turn5view0",
+    "ref": "turn26view2",
     "checked_at": "2026-10-14",
     "note": "支持短视频及音乐单；2023-12版本说明营销联盟；不证明当前抽佣比例或可提现。",
     "verification_limit": "仅证明其公开宣称的业务或功能，未测试支付/佣金/账户权限"
@@ -234,10 +234,10 @@
     "type": "公司自述",
     "published": null,
     "access": "网页正文",
-    "ref": "turn17view0",
+    "ref": "turn25view1",
     "checked_at": "2026-10-14",
-    "note": "短视频歌曲推广和星斗推业务展示。",
-    "verification_limit": "仅证明其公开宣称的业务或功能，未测试支付/佣金/账户权限"
+    "note": "官网明确营销联盟小团体接单、盟主协助接单和成员管理；广告方充值至结案开票流程。",
+    "verification_limit": "机构产品自述；不证明本项目准入、佣金或回款。"
   },
   {
     "id": "S21",
@@ -246,9 +246,9 @@
     "type": "公司自述",
     "published": null,
     "access": "网页正文",
-    "ref": "turn20view0",
+    "ref": "turn33view3",
     "checked_at": "2026-10-14",
-    "note": "官方联系入口；抓取邮件格式有空格，不替其猜测有效邮箱。",
+    "note": "集团介绍、地区与官方账号；邮箱在不同提取结果中出现空格差异，不据此自行修正或保证可用。",
     "verification_limit": "仅证明其公开宣称的业务或功能，未测试支付/佣金/账户权限"
   },
   {
@@ -317,11 +317,11 @@
     "url": "https://a.newrank.cn/phone/trade/media/resource?source=10000",
     "type": "公司自述",
     "published": null,
-    "access": "搜索摘要",
-    "ref": "turn4search11",
+    "access": "网页正文",
+    "ref": "turn30view1",
     "checked_at": "2026-10-14",
-    "note": "支持抖音等多平台资源登记；没有取得个人账户实际接单权限。",
-    "verification_limit": "仅证明其公开宣称的业务或功能，未测试支付/佣金/账户权限"
+    "note": "资源合作页列抖音等平台，接受公司/个人提供资源合作意向；公共邮箱youzhuan@newrank.cn。",
+    "verification_limit": "表单可见不代表提交后必通过；非自有达人资源、费用及归因未核实。"
   },
   {
     "id": "S28",
@@ -586,5 +586,77 @@
     "checked_at": "2026-10-14",
     "note": "电商机构/服务商资质审核签协议，与星图代理不是同一种资格。",
     "verification_limit": null
+  },
+  {
+    "id": "S50",
+    "title": "星斗推应用宝产品介绍与主体字段",
+    "url": "https://sj.qq.com/appdetail/com.lian.cheng.ju",
+    "type": "商店/开发者自述",
+    "published": "条目显示2026-01-29更新",
+    "access": "网页正文",
+    "ref": "turn26view0",
+    "checked_at": "2026-10-14",
+    "note": "营销联盟面向个人或企业，具有成员管理及旗下达人接单分佣介绍；武汉开发/运营主体字段。",
+    "verification_limit": "不提供本项目入驻许可、实际比例、提现或交易链路验证。"
+  },
+  {
+    "id": "S51",
+    "title": "星斗推官网平台隐私协议",
+    "url": "https://spread.hikoon.com/api/secret_agree",
+    "type": "平台官网政策",
+    "published": "2024-03-13（同文政策页显示）",
+    "access": "网页正文（公开抓取）",
+    "ref": "turn27view0",
+    "checked_at": "2026-10-14",
+    "note": "主要运营公司武汉航海图、与北京海葵的关联说明；公共联系邮箱XDTservice@163.com。",
+    "verification_limit": "原站正文公开抓取；应用宝所链接同文页正文也核对（turn28view0）。隐私政策不能替代联盟/任务合同；联系邮箱不保证为商务采购。"
+  },
+  {
+    "id": "S52",
+    "title": "新榜官方合伙人招募",
+    "url": "https://agent.sq.newrank.cn/",
+    "type": "机构招募/产品宣传",
+    "published": "未标明有效政策日期",
+    "access": "部分网页正文及搜索摘要",
+    "ref": "turn32search0",
+    "checked_at": "2026-10-14",
+    "note": "宣传产品代理及自动结算；摘要显示小豆芽预存费10000元，不能套用全部资源合作或音乐渠道。",
+    "verification_limit": "正文访问多次502/超时，未完整取得招募、费用、返佣合同；该金额仅归属于摘要中的具体产品。"
+  },
+  {
+    "id": "S53",
+    "title": "新榜有赚招募推广人（2023历史活动）",
+    "url": "https://geo.newrank.cn/news/1223",
+    "type": "机构历史活动",
+    "published": "2023-05-23",
+    "access": "网页正文",
+    "ref": "turn33view2",
+    "checked_at": "2026-10-14",
+    "note": "公众号推广人绑定、订单结算2%佣金6个月；活动有效期截止2023-09-30。",
+    "verification_limit": "过期，媒介为公众号；不得作为2026抖音音乐佣金、提现速度或可报名政策。"
+  },
+  {
+    "id": "S54",
+    "title": "微播易移动端自媒体变现合作入口",
+    "url": "https://www.weiboyi.com/mobile/selfmedia",
+    "type": "机构产品介绍",
+    "published": "未标日期，页脚2011-2019",
+    "access": "网页正文",
+    "ref": "turn30view2",
+    "checked_at": "2026-10-14",
+    "note": "自媒体合作及公共客服support@weiboyi.com。",
+    "verification_limit": "旧页脚，现行准入和费用需正式确认；公共客服不等于已联系的采购部门。"
+  },
+  {
+    "id": "S55",
+    "title": "微播易免责声明",
+    "url": "https://www.weiboyi.com/disclaimer",
+    "type": "平台公开声明",
+    "published": "未标生效日期，页脚2011-2026",
+    "access": "网页正文",
+    "ref": "turn30view3",
+    "checked_at": "2026-10-14",
+    "note": "第三方交易定位、审核和数据核实限制、广告主与自媒体纠纷处理；公共客服邮箱。",
+    "verification_limit": "不是本项目供应商/订单合同，不能据此保证回款或免除法定责任。"
   }
 ]
