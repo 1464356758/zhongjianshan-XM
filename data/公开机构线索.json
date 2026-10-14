@@ -394,5 +394,88 @@
     "contact_status": "NOT_CONTACTED",
     "task_authorization": "NOT_OBTAINED",
     "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U24",
+    "name": "看见音乐",
+    "role": "音乐宣发资源采购候选",
+    "url": "https://www.kanjian.com/contact",
+    "source_ids": [
+      "S90"
+    ],
+    "evidence": "公共音乐宣发入口，是否采购本项目达人资源待核",
+    "priority": "音乐主线优先",
+    "ask": "获准资源采购角色、真实任务、报酬与账期",
+    "limit": "未联系、未取得合同或任务；不计作可用预算",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U25",
+    "name": "摩登天空",
+    "role": "商务转音乐宣发采购",
+    "url": "https://www.modernsky.com/contact/",
+    "source_ids": [
+      "S91"
+    ],
+    "evidence": "公共商务部门，按播放任务和采购意向未知",
+    "priority": "音乐主线优先",
+    "ask": "获准资源采购角色、真实任务、报酬与账期",
+    "limit": "未联系、未取得合同或任务；不计作可用预算",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U26",
+    "name": "武汉微思敦",
+    "role": "品牌达人执行采购候选",
+    "url": "https://www.wsdsocial.com/zh-cn",
+    "source_ids": [
+      "S92",
+      "S93"
+    ],
+    "evidence": "中免采购候选与官网业务定位；非本项目已授权任务",
+    "priority": "后续品牌线索",
+    "ask": "获准资源采购角色、真实任务、报酬与账期",
+    "limit": "未联系、未取得合同或任务；不计作可用预算",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U27",
+    "name": "上海聚胜万合／MediaV",
+    "role": "品牌媒介资源合作候选",
+    "url": "https://leoglobal.com/business/digital",
+    "source_ids": [
+      "S92",
+      "S94",
+      "S95"
+    ],
+    "evidence": "采购候选与利欧／腾讯广告入口；具体订单与权限未知",
+    "priority": "后续品牌线索",
+    "ask": "获准资源采购角色、真实任务、报酬与账期",
+    "limit": "未联系、未取得合同或任务；不计作可用预算",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U28",
+    "name": "北京思恩客",
+    "role": "采购公告中的候选机构",
+    "url": "https://dzzb.ctg.cn/cms/cmszhaohouxuanrengs/6ca777f220084c7da36615a9ea1ae4d3.html",
+    "source_ids": [
+      "S92"
+    ],
+    "evidence": "仅到候选公告，未独立定位本轮外部资源采购负责人",
+    "priority": "后续品牌线索",
+    "ask": "获准资源采购角色、真实任务、报酬与账期",
+    "limit": "未联系、未取得合同或任务；不计作可用预算",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
   }
 ]

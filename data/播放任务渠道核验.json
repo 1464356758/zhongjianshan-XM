@@ -1,0 +1,228 @@
+{
+  "version": "V1.3",
+  "checked_at": "2026-10-15",
+  "user_resource_report": "用户称已加很多10万—100万粉丝博主微信；未核人数、意愿、权限、报价与档期",
+  "actual_ai_contacts_sent": 0,
+  "actual_authorized_tasks": 0,
+  "actual_payout_tests": 0,
+  "actual_revenue_cny": 0,
+  "real_commission_rate": null,
+  "gate_rule": "真实角色许可、任务、原brief、本人同意、计费规则、预算名额、合同报酬和资金安排须有证据；公开自述不能通过门槛。",
+  "candidates": [
+    {
+      "id": "V01",
+      "name": "星斗推营销联盟／海葵",
+      "role": "正式联盟接单分佣",
+      "priority": 1,
+      "sources": [
+        "S20",
+        "S50",
+        "S51",
+        "S89"
+      ],
+      "contact": {
+        "email": "XDTservice@163.com",
+        "purpose": "政策／客服转联盟合作",
+        "delivery_verified": false
+      },
+      "public_evidence": "个人／企业资源联盟与旗下达人接单分佣的开发者自述",
+      "exact_play_task_obtained": false,
+      "admission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "creator_binding": null,
+      "quote_permission": null,
+      "payout": null,
+      "legal_permission": null,
+      "contact_status": "NOT_CONTACTED_BY_AI",
+      "project_permission": "NOT_OBTAINED",
+      "actual_task_id": null
+    },
+    {
+      "id": "V02",
+      "name": "看见音乐",
+      "role": "外部音乐宣发资源采购",
+      "priority": 2,
+      "sources": [
+        "S90"
+      ],
+      "contact": {
+        "email": "distribution@kanjian.com",
+        "backup_business_email": "BD@kanjian.com",
+        "purpose": "音乐宣发／商务转资源采购",
+        "delivery_verified": false
+      },
+      "public_evidence": "公开部门及音乐宣发业务；采购外部资源待确认",
+      "exact_play_task_obtained": false,
+      "admission": null,
+      "commission_rate": null,
+      "upstream_quote": null,
+      "quote_permission": null,
+      "payout": null,
+      "legal_permission": null,
+      "contact_status": "NOT_CONTACTED_BY_AI",
+      "project_permission": "NOT_OBTAINED",
+      "actual_task_id": null
+    },
+    {
+      "id": "V03",
+      "name": "讯飞音乐",
+      "role": "短视频音乐宣发执行采购",
+      "priority": 3,
+      "sources": [
+        "S37",
+        "S101"
+      ],
+      "contact": {
+        "email": "music@iflytek.com",
+        "purpose": "官网音乐人合作邮箱，可请求转宣发资源采购；非采购负责人",
+        "delivery_verified": false
+      },
+      "public_evidence": "短视频宣发业务；供应商身份待确认",
+      "exact_play_task_obtained": false,
+      "upstream_quote": null,
+      "quote_permission": null,
+      "payout": null,
+      "legal_permission": null,
+      "contact_status": "NOT_CONTACTED_BY_AI",
+      "project_permission": "NOT_OBTAINED",
+      "actual_task_id": null
+    },
+    {
+      "id": "V04",
+      "name": "太合音乐",
+      "role": "商业化转宣发采购",
+      "priority": 4,
+      "sources": [
+        "S36"
+      ],
+      "contact": {
+        "email": "shangyehua@taihe.com",
+        "purpose": "商业化合作转宣发采购",
+        "delivery_verified": false
+      },
+      "public_evidence": "公共商业化部门入口",
+      "exact_play_task_obtained": false,
+      "upstream_quote": null,
+      "quote_permission": null,
+      "payout": null,
+      "legal_permission": null,
+      "contact_status": "NOT_CONTACTED_BY_AI",
+      "project_permission": "NOT_OBTAINED",
+      "actual_task_id": null
+    },
+    {
+      "id": "V05",
+      "name": "摩登天空",
+      "role": "商务转达人宣发资源采购",
+      "priority": 4,
+      "sources": [
+        "S91"
+      ],
+      "contact": {
+        "email": "bd@modernsky.com",
+        "purpose": "Business Development，不冒称采购负责人",
+        "delivery_verified": false
+      },
+      "public_evidence": "公共商务部门入口",
+      "exact_play_task_obtained": false,
+      "upstream_quote": null,
+      "quote_permission": null,
+      "payout": null,
+      "legal_permission": null,
+      "contact_status": "NOT_CONTACTED_BY_AI",
+      "project_permission": "NOT_OBTAINED",
+      "actual_task_id": null
+    },
+    {
+      "id": "V06",
+      "name": "新榜／微播易",
+      "role": "获准外部达人资源执行",
+      "priority": 5,
+      "sources": [
+        "S27",
+        "S54"
+      ],
+      "contact": null,
+      "public_evidence": "资源合作入口；没有统一按播放报价或转发返佣证据",
+      "exact_play_task_obtained": false,
+      "upstream_quote": null,
+      "quote_permission": null,
+      "payout": null,
+      "legal_permission": null,
+      "contact_status": "NOT_CONTACTED_BY_AI",
+      "project_permission": "NOT_OBTAINED",
+      "actual_task_id": null
+    },
+    {
+      "id": "V07",
+      "name": "品牌采购候选机构",
+      "role": "垂类达人资源供应商",
+      "priority": 6,
+      "sources": [
+        "S92",
+        "S93",
+        "S94",
+        "S95"
+      ],
+      "contact": null,
+      "public_evidence": "品牌采购公告与机构业务交叉定位，公告非开放的小任务",
+      "exact_play_task_obtained": false,
+      "upstream_quote": null,
+      "quote_permission": null,
+      "payout": null,
+      "legal_permission": null,
+      "contact_status": "NOT_CONTACTED_BY_AI",
+      "project_permission": "NOT_OBTAINED",
+      "actual_task_id": null
+    }
+  ],
+  "not_suitable_for_current_pure_view_mode": [
+    {
+      "name": "星图效果招募",
+      "reason": "安装CPI，不是本轮纯播放目标",
+      "source_ids": [
+        "S08"
+      ]
+    },
+    {
+      "name": "星广联投",
+      "reason": "投流消耗分成，不是自然播放达标佣金",
+      "source_ids": [
+        "S09"
+      ]
+    },
+    {
+      "name": "星图投稿直接改成固定价",
+      "reason": "算法／质量／奖池，未获固定采购授权不得保证",
+      "source_ids": [
+        "S11",
+        "S97"
+      ]
+    },
+    {
+      "name": "AiToEarn公开CPM卡",
+      "reason": "最多10.50元图文任务，未获中间分佣；不适合本轮高粉账号采购",
+      "source_ids": [
+        "S98"
+      ]
+    },
+    {
+      "name": "月壤",
+      "reason": "协议与展示页主体不同、团队许可和资金实证未取得，不能发布",
+      "source_ids": [
+        "S76",
+        "S79",
+        "S99"
+      ]
+    },
+    {
+      "name": "抖快推客户报价",
+      "reason": "主要按点赞、10%客户服务费不是给本项目的佣金",
+      "source_ids": [
+        "S84",
+        "S100"
+      ]
+    }
+  ]
+}

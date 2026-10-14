@@ -18,9 +18,9 @@
     "type": "官方规则",
     "published": "2026-09-22",
     "access": "网页正文",
-    "ref": "turn19view0",
-    "checked_at": "2026-10-14",
-    "note": "入驻与具体任务权限不同；列出多种粉丝和有效粉丝门槛；禁止私下接单。",
+    "ref": "turn78view1",
+    "checked_at": "2026-10-15",
+    "note": "入驻无粉丝门槛；具体任务权限另有有效粉丝等要求。已有10万—100万粉丝不保证收到同一任务或可计费。",
     "verification_limit": null
   },
   {
@@ -30,9 +30,9 @@
     "type": "官方规则",
     "published": "2026-06-15",
     "access": "网页正文",
-    "ref": "turn2view0",
-    "checked_at": "2026-10-14",
-    "note": "区分任务与撮合服务商；如实说明授权；未经星图书面许可不得发展下级服务商。",
+    "ref": "turn78view0",
+    "checked_at": "2026-10-15",
+    "note": "正式任务／撮合服务商应签约并如实说明权限；未经平台书面许可不得发展下级服务商。",
     "verification_limit": null
   },
   {
@@ -90,9 +90,9 @@
     "type": "官方规则",
     "published": "2026-08-23",
     "access": "网页正文",
-    "ref": "turn9view2",
-    "checked_at": "2026-10-14",
-    "note": "邀请制；CPI差额；达人仅获保底时服务商收入为零；保底也有有效指标条件。",
+    "ref": "turn86view0",
+    "checked_at": "2026-10-15",
+    "note": "当前按效果招募支持安装量CPI；价差是安装转化单价差，不是播放CPM佣金。邀请制；只结保底时服务商收入为零。",
     "verification_limit": null
   },
   {
@@ -102,9 +102,9 @@
     "type": "官方规则",
     "published": "2026-04-29",
     "access": "网页正文",
-    "ref": "turn13view3",
-    "checked_at": "2026-10-14",
-    "note": "非游服务商按计费周期投流消耗的3%分成，游戏依等级公式；不是普通音乐任务统一佣金。",
+    "ref": "turn71view0",
+    "checked_at": "2026-10-15",
+    "note": "非游分成是计费周期内投流消耗的3%，游戏另有公式；不是自然播放达标后通用佣金。",
     "verification_limit": null
   },
   {
@@ -126,9 +126,9 @@
     "type": "官方规则",
     "published": "2026-05-19",
     "access": "网页正文",
-    "ref": "turn19view1",
-    "checked_at": "2026-10-14",
-    "note": "预算池最低1万元；自然流量、质量和奖金池影响收益，排除DOU+与加热流量。",
+    "ref": "turn86view1",
+    "checked_at": "2026-10-15",
+    "note": "投稿是奖金池玩法，按自然播放和质量计费，排除作弊、DOU+及加热；预算可提前消耗完。不能保证所有达人同一固定CPM。",
     "verification_limit": null
   },
   {
@@ -174,9 +174,9 @@
     "type": "官方协议",
     "published": "2026-06-12；生效2026-06-19",
     "access": "网页正文",
-    "ref": "turn24view1",
-    "checked_at": "2026-10-14",
-    "note": "全案与直发任务、禁私下交易；明确禁止宣推达人接单后再转委托第三方实际执行；特约服务提供商定义不能推断个人渠道准入。",
+    "ref": "turn74view0",
+    "checked_at": "2026-10-15",
+    "note": "现行全案与直发协议；禁止规避平台私下交易及达人接单后再转委托；特约服务商定义不证明项目已准入。全案宣推公司结案与发票后18工作日付款，非所有任务发布日起账期。",
     "verification_limit": "已读公开协议；本项目无平台审核资格或授权。"
   },
   {
@@ -426,9 +426,9 @@
     "type": "公司自述",
     "published": null,
     "access": "网页正文",
-    "ref": "turn21view1",
-    "checked_at": "2026-10-14",
-    "note": "分列商业化合作、版权合作、品牌合作公共部门邮箱。",
+    "ref": "turn87view0",
+    "checked_at": "2026-10-15",
+    "note": "官网公共部门入口：商业化shangyehua@taihe.com；品牌PR@taihe.com。未取得外部达人采购需求或本项目合同。",
     "verification_limit": "仅证明其公开宣称的业务或功能，未测试支付/佣金/账户权限"
   },
   {
@@ -438,9 +438,9 @@
     "type": "公司自述",
     "published": null,
     "access": "网页正文",
-    "ref": "turn21view2",
-    "checked_at": "2026-10-14",
-    "note": "发行和抖音/快手等宣发服务；音乐发行小程序不等于达人任务小程序。",
+    "ref": "turn87view1",
+    "checked_at": "2026-10-15",
+    "note": "趣乐发行包括音乐人发行与短视频宣发业务；不是个人渠道已获任务或佣金的证据。",
     "verification_limit": "仅证明其公开宣称的业务或功能，未测试支付/佣金/账户权限"
   },
   {
@@ -714,9 +714,9 @@
     "type": "公司公开产品介绍",
     "published": null,
     "access": "网页正文",
-    "ref": "turn54view1",
-    "checked_at": "2026-10-14",
-    "note": "展示V1创作经营体、V2团队主理人、V3生态合伙人及企业号成员任务管理。",
+    "ref": "turn77view1",
+    "checked_at": "2026-10-15",
+    "note": "公司官网有团队主理人和企业号成员／任务管理；未给本项目准入、团队佣金或固定播放单价。",
     "verification_limit": "实际等级、成长要求、权益和任务规则指向App当前页面；费率未核实。"
   },
   {
@@ -1054,5 +1054,173 @@
     "checked_at": "2026-10-14",
     "note": "开发者青岛美影；商家发布种草/探店、红人报名；Android包名明确。",
     "verification_limit": "页面提示部分网页下载服务维护；不保证直接安装，不将iOS价格作为安卓报价。"
+  },
+  {
+    "id": "S89",
+    "title": "星斗推小米应用商店联盟介绍",
+    "url": "https://app.mi.com/details?id=com.lian.cheng.ju",
+    "type": "开发者产品自述",
+    "published": "2024-12-12（页面版本更新）",
+    "access": "网页正文",
+    "ref": "turn80view3",
+    "checked_at": "2026-10-15",
+    "note": "开发者武汉航海图；介绍个人／企业联盟、成员管理和接单分佣。页面当前有维护提示。",
+    "verification_limit": "历史版本介绍不等于2026实际准入、费率、任务或提现规则。"
+  },
+  {
+    "id": "S90",
+    "title": "看见音乐官方合作联系页",
+    "url": "https://www.kanjian.com/contact",
+    "type": "公司公共合作入口",
+    "published": null,
+    "access": "公开JS正文及搜索摘要",
+    "ref": "turn89search2",
+    "checked_at": "2026-10-15",
+    "note": "公开商务BD@kanjian.com、音乐宣发distribution@kanjian.com。星球发行是同体系，不另计独立预算。",
+    "verification_limit": "未联系；可能是向客户销售宣发服务，须确认是否采购本项目外部达人执行。"
+  },
+  {
+    "id": "S91",
+    "title": "摩登天空官方联系页",
+    "url": "https://www.modernsky.com/contact/",
+    "type": "公司公共部门入口",
+    "published": null,
+    "access": "网页正文",
+    "ref": "turn85view0",
+    "checked_at": "2026-10-15",
+    "note": "Business Development邮箱bd@modernsky.com；Media & PR另列marketing@modernsky.com。",
+    "verification_limit": "部门存在不证明当前外部达人采购或按播放结算；未验证送达。"
+  },
+  {
+    "id": "S92",
+    "title": "中免海南达人营销采购重新招标候选公示",
+    "url": "https://dzzb.ctg.cn/cms/cmszhaohouxuanrengs/6ca777f220084c7da36615a9ea1ae4d3.html",
+    "type": "品牌方公开采购公告",
+    "published": "2026-10-10",
+    "access": "网页正文",
+    "ref": "turn85view1",
+    "checked_at": "2026-10-15",
+    "note": "候选上海聚胜万合、武汉微思敦、北京思恩客；各列投标价格120万元。",
+    "verification_limit": "公示10月10—13日已结束；非最终授标、实际支出、开放任务或项目收入。未取得按播放子任务。"
+  },
+  {
+    "id": "S93",
+    "title": "微思敦品牌营销官网",
+    "url": "https://www.wsdsocial.com/zh-cn",
+    "type": "公司业务自述",
+    "published": null,
+    "access": "网页正文",
+    "ref": "turn85view2",
+    "checked_at": "2026-10-15",
+    "note": "公开营销业务和合作入口；与采购候选中的公司名称可交叉定位。",
+    "verification_limit": "服务客户／案例自述不证明当前订单、资源采购需求或本项目许可。"
+  },
+  {
+    "id": "S94",
+    "title": "利欧数字业务官方介绍",
+    "url": "https://leoglobal.com/business/digital",
+    "type": "集团业务自述",
+    "published": null,
+    "access": "网页正文",
+    "ref": "turn87view2",
+    "checked_at": "2026-10-15",
+    "note": "官网列MediaV数字营销业务及公共联系入口，用于核验机构方向。",
+    "verification_limit": "不代表存在对本项目的委托、可分发预算或按播放报价。"
+  },
+  {
+    "id": "S95",
+    "title": "腾讯广告上海聚胜万合服务商介绍",
+    "url": "https://kafws.tencentads.com/list/index/5090/1174",
+    "type": "平台机构目录",
+    "published": null,
+    "access": "官方搜索摘要；正文502",
+    "ref": "turn88search2",
+    "checked_at": "2026-10-15",
+    "note": "腾讯广告目录摘要列上海聚胜万合广告有限公司及数字营销业务。",
+    "verification_limit": "本轮正文无法稳定读取；目录身份不代替抖音任务授权。"
+  },
+  {
+    "id": "S96",
+    "title": "奇瑞腰尾部达人效果合作采购公告",
+    "url": "https://ebd.mychery.com/zd20%3Djycggg/20260423/1231916029978869760.html",
+    "type": "品牌方公开采购公告",
+    "published": "2026-04-23；截止2026-04-29",
+    "access": "网页正文",
+    "ref": "turn89view1",
+    "checked_at": "2026-10-15",
+    "note": "公告按线索付费，企业资质、项目经验、投标和履约条件较高。",
+    "verification_limit": "已结束的线索类招标，不作为当前纯播放音乐首单；不存具体员工／银行资料。"
+  },
+  {
+    "id": "S97",
+    "title": "巨量星图达人侧短视频投稿指南",
+    "url": "https://www.xingtu.cn/help-center/author/109207",
+    "type": "官方规则",
+    "published": "2026-05-19",
+    "access": "网页正文",
+    "ref": "turn83view0",
+    "checked_at": "2026-10-15",
+    "note": "自然播放投稿按质量与奖金池计费；每位达人CPM可能不同，任务资格／复审／停止条件影响收益。等级奖励可能按排名名额而非过门槛即获奖。",
+    "verification_limit": "具体当前任务规则和本账号页面优先；未读取任何用户私有任务。"
+  },
+  {
+    "id": "S98",
+    "title": "AiToEarn抖音图文公开CPM任务卡",
+    "url": "https://aitoearn.cn/zh-CN/task/6a5f7ef12c5c25d66c46cb54",
+    "type": "第三方平台公开任务展示",
+    "published": null,
+    "access": "网页及公开JS正文",
+    "ref": "turn83view1",
+    "checked_at": "2026-10-15",
+    "note": "页面示每千次播放3元、基础0.5元、效果部分封顶10元，最多10.50元；要求抖音图文、本人绑定账号交付。",
+    "verification_limit": "公开展示不证明审核付款、预算锁定或转发抽佣。不是音乐视频任务；不适合向10万—100万粉丝达人许诺高额回报。"
+  },
+  {
+    "id": "S99",
+    "title": "月壤公开协议列表与用户协议",
+    "url": "https://moonsoil.com/agreement?type=privacy",
+    "type": "平台公开协议",
+    "published": "2026-08-27",
+    "access": "公开JS正文及官方搜索摘要",
+    "ref": "turn82search1",
+    "checked_at": "2026-10-15",
+    "note": "协议列表显示用户协议相对方白月城（北京）科技有限公司；按具体任务多因子结算，无流量收益保证。",
+    "verification_limit": "展示页footer另称北京月壤科技有限公司，主体名称不一致待核。/privacy与/terms本轮未返回相应协议正文。未取得团队报酬或资金实证。"
+  },
+  {
+    "id": "S100",
+    "title": "抖快推客户侧音乐宣发价目",
+    "url": "https://aaaaaa.com.cn/disanxilie/",
+    "type": "商家网站价目自述",
+    "published": "未标；footer2012—2022",
+    "access": "网页正文",
+    "ref": "turn77view3",
+    "checked_at": "2026-10-15",
+    "note": "公开客户侧音乐定稿／征稿按点赞分档，另收10%服务费，非向本项目提供的分佣。",
+    "verification_limit": "当前主体、原任务、价格有效期、组织分发与平台链路未取得；不将历史价当当前播放报价。"
+  },
+  {
+    "id": "S101",
+    "title": "讯飞音乐官方商务合作页",
+    "url": "https://www.iflytekmusic.com/business",
+    "type": "公司公共合作入口",
+    "published": null,
+    "access": "网页正文",
+    "ref": "turn90view0",
+    "checked_at": "2026-10-15",
+    "note": "商务合作页将music@iflytek.com标为音乐人合作；可以请求转宣发采购，不把音乐人合作邮箱冒称采购部门。",
+    "verification_limit": "不是已确认采购负责人或任务发布主体；其他歌手／公益合作邮箱不混用。"
+  },
+  {
+    "id": "S102",
+    "title": "中华人民共和国民法典：中介与行纪合同",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html",
+    "type": "最高人民法院刊载法律文本",
+    "published": "2020-05-28通过；2021-01-01施行",
+    "access": "网页正文；定点查962—965条",
+    "ref": "turn92view1",
+    "checked_at": "2026-10-15",
+    "note": "中介应如实报告重要订约事项，报酬应按真实关系与约定判断；符合条件的绕开订约有报酬规则。行纪收益也不是未约定时当然归行纪人。",
+    "verification_limit": "具体关系依实际合同和权利义务；不认定本项目已取得永久佣金或任何平台注册许可。"
   }
 ]

@@ -1,14 +1,14 @@
 {
   "project_id": "ZJS-XM-001",
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "timezone": "Asia/Shanghai",
-  "version": "V1.2",
-  "stage": "OTHER_PLATFORM_PUBLIC_RESEARCH_AND_CONTACT_PACK_COMPLETE",
+  "version": "V1.3",
+  "stage": "PLAY_TASK_IMPLEMENTATION_PREPARED_COMMERCIAL_UNVALIDATED",
   "next_stage": "AUTHORIZED_COMMERCIAL_VALIDATION",
-  "research_status": "COMPLETE_WITH_PUBLIC_ACCESS_LIMITS",
-  "commercial_status": "UNVALIDATED_NO_AUTHORIZED_TASKS_NO_CUSTOMERS_NO_REVENUE",
-  "source_count": 88,
-  "public_business_entries": 23,
+  "research_status": "PUBLIC_RESEARCH_AND_REVIEWABLE_IMPLEMENTATION_PREPARED_COMMERCIAL_UNVALIDATED",
+  "commercial_status": "NO_AUTHORIZED_UPSTREAM_TASKS_NO_REAL_ORDERS_OR_REVENUE",
+  "source_count": 102,
+  "public_business_entries": 28,
   "pdf_pages": 33,
   "completed": [
     "官方任务类型、发布和接单规则",
@@ -26,19 +26,25 @@
     "16个其他平台/音乐上游条目核验",
     "通告委托发布、资料保护与会员搬运限制",
     "新平台角色、费用及结算区别",
-    "新增合作接洽稿与招募模板"
+    "新增合作接洽稿与招募模板",
+    "按播放达标与固定CPM采购模式实施方案",
+    "7类播放任务上游方向与公开部门入口",
+    "真实规则不可改写字段、本人领单发布与任务卡",
+    "博主参与条件及上游反向报价",
+    "资金缺口、未到账与规模工时反例",
+    "原生计算引擎可填报价和对账工具"
   ],
   "not_completed": [
     "具体平台/上游给本项目的合作授权",
-    "实际联系人建联",
     "真实任务与合同",
     "试单执行与回款",
     "真实单位经济与复购验证",
     "星斗推/新榜/微播易给本项目的具体准入、计佣和归因决定",
-    "新平台给本项目的身份、分佣、归因、退出和提现决定"
+    "新平台给本项目的身份、分佣、归因、退出和提现决定",
+    "用户已有博主微信资源的数量、权限、逐单同意、报价和档期核验"
   ],
   "requires_user_action_now": false,
-  "next_ai_task": "先读research/06、data/其他平台核验和ops/其他平台合作询问包。公开研究可继续核实未决合同与真实经营入口。优先右豹、橙星推、WEIQ的适配角色；音乐主线保留星斗推并补粤兔/米喜。不得把宣传填为本项目已授权。没有对外联系指令时不发送草稿。",
+  "next_ai_task": "先读research/07、ops/按播放达标任务执行包、data/播放任务渠道核验及project/V1.3自审。当前目标是纯播放任务，不混用安装CPI、投流消耗或点赞报价。优先星斗推联盟或获准音乐宣发资源采购；准备材料可继续核验，不对外发送。真实任务后逐项核角色、本人同意、有效量、封顶、资金和回款。",
   "limits": [
     "公开研究已授权",
     "本仓库资料写入已授权",
@@ -48,6 +54,10 @@
     "公开仓库不得存真实个人联系方式、证件、银行资料、账号密钥或保密brief"
   ],
   "entrypoints": [
+    "research/07_按播放达标任务的中间商实施方案.md",
+    "ops/按播放达标任务执行包.md",
+    "data/播放任务渠道核验.json",
+    "project/V1.3_自审与修订记录.md",
     "research/01_官方规则与中间商判断.md",
     "research/02_音乐任务与平台机构.md",
     "research/03_获客利润与30天试单.md",
@@ -63,5 +73,15 @@
   "continuation_pdf_pages": 12,
   "other_platform_entries": 16,
   "other_platform_pdf_pages": 14,
-  "other_platform_contact_pack_status": "REVIEWABLE_NOT_SENT_NOT_AUTHORIZED"
+  "other_platform_contact_pack_status": "REVIEWABLE_NOT_SENT_NOT_AUTHORIZED",
+  "play_task_candidates": 7,
+  "user_reported_creator_wechat_connections": "已有很多10万—100万粉丝博主微信；人数、任务同意、权限与报价未知",
+  "play_task_contact_pack_status": "READY_FOR_REVIEW_NOT_SENT",
+  "play_task_spreadsheet": "按播放达标任务_报价与对账工具_V1.3.xlsx",
+  "current_task_duration_request_hours": 4,
+  "current_task_duration_claimed_completed": false,
+  "play_task_pdf_pages": 21,
+  "play_task_spreadsheet_native_engine_checks": 41,
+  "current_task_measured_checkpoint_utc": "2026-10-14T17:07:01.482386+00:00",
+  "current_task_elapsed_minutes_at_checkpoint": 76.67
 }
