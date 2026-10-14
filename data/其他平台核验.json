@@ -1,0 +1,732 @@
+{
+  "version": "V1.2",
+  "checked_at": "2026-10-14",
+  "scope": "16个平台/音乐上游条目，含旧平台复核；千推为风行关联产品，不独立计数",
+  "entry_count": 16,
+  "actual_authorized_tasks": 0,
+  "actual_contacted_partners": 0,
+  "actual_payout_tests": 0,
+  "gate_rule": "公开功能和公司业务不等于本项目合作权；实际费用、佣金、归因、付款及授权未确认时保留null。",
+  "money_types": [
+    "创作者作品报酬",
+    "合同约定团队分佣",
+    "客户认可招募/执行服务费",
+    "会员与工具消费",
+    "推荐购买奖励"
+  ],
+  "associated_products": [
+    {
+      "name": "千推",
+      "brand_group": "风行体系",
+      "url": "https://fenxiao.funshion.com/#/login",
+      "source_ids": [
+        "S63"
+      ],
+      "status": "PUBLIC_LOGIN_ENTRY_ONLY_NOT_VERIFIED_AS_INDEPENDENT_BUDGET_SOURCE"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "P01",
+      "name": "WEIQ",
+      "kind": "品牌订单与服务商工具",
+      "brand_group": "WEIQ/天下秀",
+      "operator_evidence": "官网署名天下秀科技有限公司",
+      "source_ids": [
+        "S56",
+        "S57",
+        "S58"
+      ],
+      "official_entry_urls": [
+        "https://weiq.com/"
+      ],
+      "intended_role": "需求侧代理/品牌执行服务",
+      "public_feature_evidence": "独立服务商平台、品牌订单及团队角色协作",
+      "public_payout_description": "自媒体个人5工作日审核、周五支付；企业含发票核验；不作为代理回款规则。",
+      "public_price_reference": null,
+      "public_contact": {
+        "public_phone": "400-0070-066",
+        "purpose": "公共客服转服务商合作",
+        "delivery_verified": false
+      },
+      "priority": "优先核验品牌执行角色",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "服务商当前资格和费用",
+        "非自有达人授权",
+        "客户执行费与平台采购的合同关系",
+        "抖音订单链路"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P02",
+      "name": "右豹",
+      "kind": "内容任务与团队工作台",
+      "brand_group": "右豹/不鸣文化",
+      "operator_evidence": "公司页与App提供者深圳不鸣文化科技有限公司",
+      "source_ids": [
+        "S59",
+        "S60",
+        "S61"
+      ],
+      "official_entry_urls": [
+        "https://www.youbao88.com/index.html",
+        "https://szbuming.com/youbao-opc"
+      ],
+      "intended_role": "团队主理人/企业号执行",
+      "public_feature_evidence": "V2团队主理人、V3生态合伙人、企业号成员任务管理",
+      "public_payout_description": "公开角色页未给本项目团队结算周期。",
+      "public_price_reference": {
+        "channel": "品牌官网自述",
+        "items": [
+          {
+            "name": "创作者入驻费/保证金",
+            "amount_cny": 0,
+            "limit": "仅是官网针对创作者的声明，不代表所有业务免费"
+          }
+        ],
+        "current_project_quote": false
+      },
+      "public_contact": null,
+      "priority": "优先核验团队角色",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "身份升级条件",
+        "计佣比例和基数",
+        "成员绑定/退出",
+        "提现和追扣"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P03",
+      "name": "橙星推",
+      "kind": "文娱任务分发",
+      "brand_group": "风行体系",
+      "operator_evidence": "网站北京风行在线；App提供者武汉风行在线，具体签约主体未知",
+      "source_ids": [
+        "S62",
+        "S63",
+        "S64"
+      ],
+      "official_entry_urls": [
+        "https://funai.show/orange-push"
+      ],
+      "intended_role": "组织达人参与/渠道执行",
+      "public_feature_evidence": "影视、短剧、小说等任务和专属链接；官方产品合作邮箱",
+      "public_payout_description": "影视业务自述订单后1至2天收益结算，每日批次提现；非所有任务到账承诺。",
+      "public_price_reference": {
+        "channel": "中国区iOS商店",
+        "items": [
+          {
+            "name": "周卡",
+            "amount_cny": 18
+          },
+          {
+            "name": "月卡",
+            "amount_cny": 58
+          },
+          {
+            "name": "季卡",
+            "amount_cny": 128
+          }
+        ],
+        "limit": "工具购买项目，不代替渠道费或安卓报价",
+        "current_project_quote": false
+      },
+      "public_contact": {
+        "email": "zhengjr@fun.tv",
+        "purpose": "官网标注橙星推合作",
+        "delivery_verified": false
+      },
+      "priority": "优先核验产品合作",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "非自有达人团队准入",
+        "管理报酬与平台服务费",
+        "任务和链接归因",
+        "素材/白名单范围"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P04",
+      "name": "抖推猫",
+      "kind": "多类任务与团队数据",
+      "brand_group": "抖推猫；创作猫关联待核实",
+      "operator_evidence": "官网河北抖推猫网络科技服务有限公司",
+      "source_ids": [
+        "S29",
+        "S30",
+        "S74",
+        "S75"
+      ],
+      "official_entry_urls": [
+        "https://www.doutuimao.net/platform.html"
+      ],
+      "intended_role": "正式团队经营/执行",
+      "public_feature_evidence": "云端组队、直推推荐潜在成员、团队收益及贡献数据",
+      "public_payout_description": "本轮未取得现行团队提现规则。",
+      "public_price_reference": null,
+      "public_contact": {
+        "email": "serve@doutuimao.com.cn",
+        "purpose": "官网公共联系转团队合作",
+        "delivery_verified": false
+      },
+      "priority": "补充核验团队角色",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "当前团队条件/收费",
+        "分成基数比例",
+        "成员归因解绑",
+        "音乐专项是否存在"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P05",
+      "name": "创作猫",
+      "kind": "创作工具/课程与任务",
+      "brand_group": "与抖推猫历史关联待核实",
+      "operator_evidence": "App版权署名北京主语空间文化发展有限公司；合同主体需另查",
+      "source_ids": [
+        "S73",
+        "S75"
+      ],
+      "official_entry_urls": [
+        "https://apps.apple.com/cn/app/id1587850376"
+      ],
+      "intended_role": "工具辅助及任务使用；团队资格待查",
+      "public_feature_evidence": "工具、课程、小程序、小说影视等任务",
+      "public_payout_description": "现行团队结算和管理收入未核实。",
+      "public_price_reference": {
+        "channel": "中国区iOS商店",
+        "items": [
+          {
+            "name": "全站会员1个月",
+            "amount_cny": 88
+          },
+          {
+            "name": "全站会员12个月",
+            "amount_cny": 388
+          },
+          {
+            "name": "SVIP1个月",
+            "amount_cny": 148
+          },
+          {
+            "name": "SVIP12个月",
+            "amount_cny": 998
+          }
+        ],
+        "limit": "不同套餐，不代表渠道入驻费/安卓报价",
+        "current_project_quote": false
+      },
+      "public_contact": null,
+      "priority": "作为关联产品比较",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "会员权益是否必要",
+        "团队资格和计佣",
+        "当前合同/付款主体"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P06",
+      "name": "螃蟹通告",
+      "kind": "达人招募工具",
+      "brand_group": "螃蟹通告/数池",
+      "operator_evidence": "用户协议及商店提供者深圳数池科技有限公司",
+      "source_ids": [
+        "S65",
+        "S66",
+        "S67",
+        "S68"
+      ],
+      "official_entry_urls": [
+        "https://www.crabindex.com/"
+      ],
+      "intended_role": "获得真实委托后发布招募/向客户收执行费",
+      "public_feature_evidence": "协议允许合作方委托产品招募；需平台报备，保护报名者资料",
+      "public_payout_description": "平台不自动成为交易付款方；本项目与委托方另订付款。",
+      "public_price_reference": {
+        "channel": "中国区iOS商店",
+        "items": [
+          {
+            "name": "连续包月会员",
+            "amount_cny": 25
+          },
+          {
+            "name": "连续包月菁英会员",
+            "amount_cny": 12
+          },
+          {
+            "name": "每日报名额度",
+            "amount_cny": 18
+          },
+          {
+            "name": "蟹蟹卡",
+            "amount_cny": 98
+          }
+        ],
+        "limit": "不同购买项目，不相加为必交总费，不作为安卓价",
+        "current_project_quote": false
+      },
+      "public_contact": null,
+      "priority": "补充招募入口",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "发布方准入与委托证明",
+        "具体会员额度费用",
+        "支付/托管责任",
+        "客户执行费"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P07",
+      "name": "红人通告",
+      "kind": "种草探店招募工具",
+      "brand_group": "红人通告/青岛美影",
+      "operator_evidence": "商店、隐私政策与小米页青岛美影科技有限公司",
+      "source_ids": [
+        "S69",
+        "S70",
+        "S88"
+      ],
+      "official_entry_urls": [
+        "https://app.mi.com/details?id=com.meiying.hongrentonggao",
+        "https://apps.apple.com/cn/app/id1594536886"
+      ],
+      "intended_role": "受委托达人招募待确认",
+      "public_feature_evidence": "商家发通告、达人报名；发布方身份核验场景",
+      "public_payout_description": "未取得自动返佣或支付托管规则。",
+      "public_price_reference": {
+        "channel": "中国区iOS商店",
+        "items": [
+          {
+            "name": "1个月会员",
+            "amount_cny": 9
+          },
+          {
+            "name": "3个月会员",
+            "amount_cny": 25
+          },
+          {
+            "name": "1年会员",
+            "amount_cny": 65
+          }
+        ],
+        "limit": "未确认金币具体用途和全部额度，不作为安卓价",
+        "current_project_quote": false
+      },
+      "public_contact": null,
+      "priority": "补充招募入口",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "第三方执行方发布许可",
+        "会员及金币权益",
+        "实际结算责任"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P08",
+      "name": "U客直谈",
+      "kind": "甲乙方信息线索",
+      "brand_group": "U客直谈/万合社",
+      "operator_evidence": "官网杭州万合社网络科技有限公司",
+      "source_ids": [
+        "S71",
+        "S72"
+      ],
+      "official_entry_urls": [
+        "https://www.ukezhitan.com/"
+      ],
+      "intended_role": "筛选真实采购方/合同约定介绍或执行费",
+      "public_feature_evidence": "甲乙方、合伙人与推广团队资源分类",
+      "public_payout_description": "2023提醒说不参与项目分佣、不担保交易；非2026全部功能免费证明。",
+      "public_price_reference": null,
+      "public_contact": {
+        "email": "ukezhitan@qq.com",
+        "purpose": "平台公共商务入口；非某任务付款方",
+        "delivery_verified": false
+      },
+      "priority": "补充上游线索",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "发布方采购/付款权",
+        "任务真实性和授权",
+        "当前联系/曝光成本"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P09",
+      "name": "月壤",
+      "kind": "版权宣发与任务产品自述",
+      "brand_group": "月壤",
+      "operator_evidence": "官网自述北京月壤科技有限公司；未独立核实资质",
+      "source_ids": [
+        "S76",
+        "S77",
+        "S78",
+        "S79",
+        "S80"
+      ],
+      "official_entry_urls": [
+        "https://moonsoil.com/welcome/music"
+      ],
+      "intended_role": "版权宣推协作/团队奖励条件待查",
+      "public_feature_evidence": "任务、本人账号发布回填、真实互动收益；首页团队奖励自述",
+      "public_payout_description": "首页7天自动结算为宣传；具体任务提现门槛和实际回款未知。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "观察候选，补完整协议",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "经营/付款主体",
+        "完整用户和隐私协议",
+        "真实任务/资金条件",
+        "团队分佣与账户归因"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P10",
+      "name": "粤兔通告",
+      "kind": "音乐征稿产品线索",
+      "brand_group": "粤兔文化",
+      "operator_evidence": "公司招聘主页深圳市粤兔文化传媒有限公司自述",
+      "source_ids": [
+        "S81"
+      ],
+      "official_entry_urls": [],
+      "intended_role": "音乐采购或达人执行合作待查",
+      "public_feature_evidence": "公司产品栏列歌曲征稿任务小程序",
+      "public_payout_description": "现行佣金、团队身份和结算均未取得。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "音乐主线补证",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "当前官方商务入口",
+        "小程序现行经营和任务",
+        "渠道角色及分佣",
+        "素材和订单授权"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P11",
+      "name": "米喜文化",
+      "kind": "音乐发行推广上游线索",
+      "brand_group": "米喜文化",
+      "operator_evidence": "徐州日报报道徐州米喜文化传媒有限公司",
+      "source_ids": [
+        "S82"
+      ],
+      "official_entry_urls": [],
+      "intended_role": "真实音乐宣推采购方待查",
+      "public_feature_evidence": "报道制作、发行及推广业务",
+      "public_payout_description": "未取得外部执行采购或付款政策。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "音乐主线补证",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "官方商务入口",
+        "实际采购方/预算",
+        "执行授权与报酬",
+        "任务合同和回款"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P12",
+      "name": "网益文化",
+      "kind": "作品推广署名线索",
+      "brand_group": "网益文化（不推定网易关联）",
+      "operator_evidence": "歌曲署名业务名称，未可靠对应经营法人",
+      "source_ids": [
+        "S83"
+      ],
+      "official_entry_urls": [],
+      "intended_role": "产业线索，先确认主体",
+      "public_feature_evidence": "作品资料营销或制作署名",
+      "public_payout_description": "无可核实的现行团队计佣和付款。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "低优先级补主体",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "法律/收付款主体",
+        "当前小程序与官方入口",
+        "真实授权任务"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P13",
+      "name": "抖快推",
+      "kind": "历史音乐推广服务网站",
+      "brand_group": "抖快推",
+      "operator_evidence": "网站未取得明确经营/付款法人",
+      "source_ids": [
+        "S84"
+      ],
+      "official_entry_urls": [
+        "https://www.aaaaaa.com.cn/"
+      ],
+      "intended_role": "历史音乐服务线索",
+      "public_feature_evidence": "歌曲推广发行服务，主要可见资讯2021至2023年",
+      "public_payout_description": "未核实当前接单/预算/提现运行。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "历史线索",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "最新业务和法人",
+        "真实任务与预算",
+        "团队协议与付款"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P14",
+      "name": "小猪快推",
+      "kind": "历史音乐小程序介绍",
+      "brand_group": "小猪快推",
+      "operator_evidence": "第三方历史内容，当前经营主体未知",
+      "source_ids": [
+        "S46"
+      ],
+      "official_entry_urls": [],
+      "intended_role": "仅保留历史识别线索",
+      "public_feature_evidence": "已有历史音乐任务介绍",
+      "public_payout_description": "历史任务和推荐政策不作当前结算。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "历史线索",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "当前主体/官方入口",
+        "现行协议与费率",
+        "任务和付款"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P15",
+      "name": "抖会推",
+      "kind": "历史音乐小程序介绍",
+      "brand_group": "抖会推",
+      "operator_evidence": "第三方历史介绍/目录，当前经营主体未知",
+      "source_ids": [
+        "S85",
+        "S86"
+      ],
+      "official_entry_urls": [],
+      "intended_role": "仅保留历史识别线索",
+      "public_feature_evidence": "历史文章有7%/3%/1%推荐收益描述",
+      "public_payout_description": "旧文章比例不可作2026官方费率。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "历史线索",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "当前经营和官方协议",
+        "实际任务和回款",
+        "团队归因费率"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    },
+    {
+      "id": "P16",
+      "name": "创熊推",
+      "kind": "第三方团长招募线索",
+      "brand_group": "创熊推/静眸工厂自述未核实",
+      "operator_evidence": "仅第三方招募文，经营与付款主体未核实",
+      "source_ids": [
+        "S87"
+      ],
+      "official_entry_urls": [],
+      "intended_role": "不作为优先招募或付费对象",
+      "public_feature_evidence": "第三方宣称团队级别、多级分佣与免费入驻",
+      "public_payout_description": "未取得官方合同和付款证据；费率不用于模型。",
+      "public_price_reference": null,
+      "public_contact": null,
+      "priority": "未核实线索",
+      "contract_payee": null,
+      "project_role_permission": null,
+      "task_distribution_permission": null,
+      "commission_rate": null,
+      "commission_base": null,
+      "binding_exit_rules": null,
+      "actual_admission_cost": null,
+      "project_payout_period": null,
+      "open_questions": [
+        "官方主体/合同",
+        "计佣和收益来源",
+        "上游授权",
+        "真实结算"
+      ],
+      "contact_status": "NOT_CONTACTED",
+      "current_permission": "NOT_OBTAINED",
+      "actual_task_status": "NONE_OBTAINED",
+      "payment_test": "NOT_PERFORMED"
+    }
+  ]
+}

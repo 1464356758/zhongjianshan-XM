@@ -2,13 +2,13 @@
   "project_id": "ZJS-XM-001",
   "as_of": "2026-10-14",
   "timezone": "Asia/Shanghai",
-  "version": "V1.1",
-  "stage": "PUBLIC_UPSTREAM_CHECK_AND_FIRST_ORDER_PACK_COMPLETE",
+  "version": "V1.2",
+  "stage": "OTHER_PLATFORM_PUBLIC_RESEARCH_AND_CONTACT_PACK_COMPLETE",
   "next_stage": "AUTHORIZED_COMMERCIAL_VALIDATION",
   "research_status": "COMPLETE_WITH_PUBLIC_ACCESS_LIMITS",
   "commercial_status": "UNVALIDATED_NO_AUTHORIZED_TASKS_NO_CUSTOMERS_NO_REVENUE",
-  "source_count": 55,
-  "public_business_entries": 14,
+  "source_count": 88,
+  "public_business_entries": 23,
   "pdf_pages": 33,
   "completed": [
     "官方任务类型、发布和接单规则",
@@ -22,7 +22,11 @@
     "音乐达人禁止接单后转委托条款补充",
     "新榜历史2%公众号活动到期核查",
     "三家优先渠道接洽稿、合作确认与任务卡",
-    "首单招募成本和经营者工时模型"
+    "首单招募成本和经营者工时模型",
+    "16个其他平台/音乐上游条目核验",
+    "通告委托发布、资料保护与会员搬运限制",
+    "新平台角色、费用及结算区别",
+    "新增合作接洽稿与招募模板"
   ],
   "not_completed": [
     "具体平台/上游给本项目的合作授权",
@@ -30,10 +34,11 @@
     "真实任务与合同",
     "试单执行与回款",
     "真实单位经济与复购验证",
-    "星斗推/新榜/微播易给本项目的具体准入、计佣和归因决定"
+    "星斗推/新榜/微播易给本项目的具体准入、计佣和归因决定",
+    "新平台给本项目的身份、分佣、归因、退出和提现决定"
   ],
   "requires_user_action_now": false,
-  "next_ai_task": "读取research/05和ops/首单启动包。优先补本项目上游角色许可、报酬、归因和真实任务，不能重复包装公开线索为订单。没有明确对外联系指令时不发消息。若仍仅继续研究，针对未决协议与准入核实，或改善已有执行材料。",
+  "next_ai_task": "先读research/06、data/其他平台核验和ops/其他平台合作询问包。公开研究可继续核实未决合同与真实经营入口。优先右豹、橙星推、WEIQ的适配角色；音乐主线保留星斗推并补粤兔/米喜。不得把宣传填为本项目已授权。没有对外联系指令时不发送草稿。",
   "limits": [
     "公开研究已授权",
     "本仓库资料写入已授权",
@@ -49,8 +54,14 @@
     "research/04_合同责任与自审.md",
     "ops/实操模板包.md",
     "research/来源台账.md",
-    "project/QA.json"
+    "project/QA.json",
+    "research/06_其他平台与渠道合作比较.md",
+    "ops/其他平台合作询问包.md",
+    "data/其他平台核验.json"
   ],
   "first_order_pack_status": "REVIEWABLE_NOT_SENT_NOT_AUTHORIZED",
-  "continuation_pdf_pages": 12
+  "continuation_pdf_pages": 12,
+  "other_platform_entries": 16,
+  "other_platform_pdf_pages": 14,
+  "other_platform_contact_pack_status": "REVIEWABLE_NOT_SENT_NOT_AUTHORIZED"
 }

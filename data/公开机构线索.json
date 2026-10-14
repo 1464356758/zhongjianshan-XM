@@ -236,5 +236,163 @@
     "contact_status": "NOT_CONTACTED",
     "task_authorization": "NOT_OBTAINED",
     "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U15",
+    "name": "WEIQ/天下秀",
+    "role": "品牌投放服务商合作",
+    "url": "https://weiq.com/",
+    "source_ids": [
+      "S56"
+    ],
+    "evidence": "官网明确服务商和团队协同",
+    "priority": "优先核验",
+    "ask": "服务商准入、资源权限及客户执行费",
+    "limit": "不是自动团队返佣",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U16",
+    "name": "右豹/不鸣文化",
+    "role": "内容任务团队角色",
+    "url": "https://szbuming.com/youbao-opc",
+    "source_ids": [
+      "S59",
+      "S60",
+      "S61"
+    ],
+    "evidence": "公司页与App提供者交叉支持角色",
+    "priority": "优先核验",
+    "ask": "团队主理人/企业号、报酬归因退出",
+    "limit": "角色公开不等于项目身份获批",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U17",
+    "name": "橙星推/风行",
+    "role": "文娱任务产品合作",
+    "url": "https://funai.show/contact",
+    "source_ids": [
+      "S62",
+      "S63",
+      "S64"
+    ],
+    "evidence": "任务介绍和产品合作邮箱",
+    "priority": "优先核验",
+    "ask": "非自有达人协作、服务费与归因",
+    "limit": "千推不重复计作独立预算",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U18",
+    "name": "螃蟹通告/数池",
+    "role": "受委托达人招募工具",
+    "url": "https://www.crabindex.com/",
+    "source_ids": [
+      "S65",
+      "S66",
+      "S67",
+      "S68"
+    ],
+    "evidence": "协议允许合作方委托招募",
+    "priority": "招募工具",
+    "ask": "发布资质、会员额度和交易责任",
+    "limit": "平台非自动付款及分佣主体",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U19",
+    "name": "红人通告/青岛美影",
+    "role": "种草探店招募工具",
+    "url": "https://app.mi.com/details?id=com.meiying.hongrentonggao",
+    "source_ids": [
+      "S69",
+      "S70",
+      "S88"
+    ],
+    "evidence": "App、隐私和小米提供者一致",
+    "priority": "招募工具",
+    "ask": "第三方执行发布、费用与结算",
+    "limit": "尚无自动返佣政策",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U20",
+    "name": "U客直谈/万合社",
+    "role": "上游需求线索平台",
+    "url": "https://www.ukezhitan.com/aboutUs",
+    "source_ids": [
+      "S71",
+      "S72"
+    ],
+    "evidence": "资源入口与交易提醒",
+    "priority": "次级线索",
+    "ask": "具体采购方的真实授权预算和付款",
+    "limit": "平台信息不能充当任务授权",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U21",
+    "name": "月壤",
+    "role": "版权宣发产品观察",
+    "url": "https://moonsoil.com/welcome/music",
+    "source_ids": [
+      "S76",
+      "S77",
+      "S78",
+      "S79",
+      "S80"
+    ],
+    "evidence": "公开产品及操作帮助",
+    "priority": "补主体和协议",
+    "ask": "公司资质、完整协议、团队和真实任务",
+    "limit": "页面自述、无真实资金验证",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U22",
+    "name": "粤兔文化/粤兔通告",
+    "role": "音乐征稿产业线索",
+    "url": "https://m.zhipin.com/companys/acfb868fa179f63c03B93tS1F1Q~.html",
+    "source_ids": [
+      "S81"
+    ],
+    "evidence": "公司公开产品描述",
+    "priority": "音乐方向补证",
+    "ask": "官方商务、现行任务和团队协议",
+    "limit": "招聘主页不是采购授权入口",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
+  },
+  {
+    "id": "U23",
+    "name": "米喜文化",
+    "role": "音乐制作发行推广上游",
+    "url": "https://szb.cnxz.com.cn/xzrb/pad/con/202607/20/content_53040.html",
+    "source_ids": [
+      "S82"
+    ],
+    "evidence": "徐州日报报道其业务",
+    "priority": "音乐方向补证",
+    "ask": "官方商务和真实执行采购",
+    "limit": "新闻不是任务合同",
+    "contact_status": "NOT_CONTACTED",
+    "task_authorization": "NOT_OBTAINED",
+    "payment_test": "NOT_PERFORMED"
   }
 ]
